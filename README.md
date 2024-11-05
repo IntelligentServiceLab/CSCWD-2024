@@ -16,7 +16,7 @@ This repository is the Python implementation for the CSCWD 2024 accepted paper:
   - numpy
 - SANFM -- The code has been tested running under Python 3.8. The required packages are as follows:
   - pytorch
-  - pandas,
+  - pandas
   - scikit-learn
 
 You can execute the code directly according to the readme.md of each module, use Bert and LightGCN to get the representation and then input it into SANFM.
