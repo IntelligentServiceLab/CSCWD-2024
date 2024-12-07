@@ -19,4 +19,8 @@ This repository is the Python implementation for the CSCWD 2024 accepted paper:
   - pandas == 1.3.3
   - scikit-learn == 0.24.2
 
+ ## Others
+- COde of Baselines：https://github.com/xiangwang1223/neural_graph_collaborative_filtering
+- Code of LighGCN：https://github.com/kuandeng/LightGCN 、https://github.com/gusye1234/LightGCN-PyTorch 
+
 You can execute the code directly according to the readme.md of each module, use Bert and LightGCN to get the representation and then input it into SANFM.
