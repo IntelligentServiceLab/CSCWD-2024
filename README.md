@@ -20,7 +20,7 @@ This repository is the Python implementation for the CSCWD 2024 accepted paper:
   - scikit-learn == 0.24.2
 
  ## Others
-- COde of Baselines
+- Code of Baselines
   - https://github.com/xiangwang1223/neural_graph_collaborative_filtering
 - Code of LighGCN
   - https://github.com/kuandeng/LightGCN
